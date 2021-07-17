@@ -1,16 +1,16 @@
-### Hello everyone 👋
+# 👋 Hello everyone 
 
-<!--
-**luk-f/luk-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💬 I'm Lucas and I'm a machine learning engineer 
 
-Here are some ideas to get you started:
+I like to use Python 🐍 for personal and professional projects (but this is not my native language 😝).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Here is a quick list of my most recent or significant projects: 💻
+
+- Just recently, I have create a small app to play with a buzzer 🚨 on each personal device. I developed it to try Flask API !
+    You can find it here: [luk-f/BuzzerApp](https://github.com/luk-f/BuzzerApp)
+- I'm currently work on a algorithm used to aggregate movement data (in 2D) and generalize spatial information: 
+[luk-f/AggOfMassiveMvtData](https://github.com/luk-f/AggOfMassiveMvtData)
+- And obviously, I should refer to my PhD work 🎓 that just finished last year, 
+an unsupervised method of anomaly detection on multidimensional stream data (a CFOF approximation with *i*SAX tree):
+[luk-f/pyCFOFiSAX](https://github.com/luk-f/pyCFOFiSAX)
+- Also developed the CFOF method to compare it to my thesis work: [luk-f/pyCFOF](https://github.com/luk-f/pyCFOF)
