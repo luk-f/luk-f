@@ -10,7 +10,7 @@ I like to use Python 🐍 for personal and professional projects (but this is no
     You can find it here: [luk-f/BuzzerApp](https://github.com/luk-f/BuzzerApp)
 - I'm currently work on a algorithm used to aggregate movement data (in 2D) and generalize spatial information: 
 [luk-f/AggOfMassiveMvtData](https://github.com/luk-f/AggOfMassiveMvtData), 
-     - and I've implemented a specific package with `pybind11` [luk-f/pyhaversine](https://github.com/luk-f/pyhaversine)
+     - and I've implemented a specific package with `pybind11`: [luk-f/pyhaversine](https://github.com/luk-f/pyhaversine)
 - And obviously, I should refer to my PhD work 🎓 that just finished last year, 
 an unsupervised method of anomaly detection on multidimensional stream data (a CFOF approximation with *i*SAX tree):
 [luk-f/pyCFOFiSAX](https://github.com/luk-f/pyCFOFiSAX)
