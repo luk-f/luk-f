@@ -11,7 +11,7 @@ I like to use Python 🐍 for personal and professional projects (but this is no
 - I'm currently work on a algorithm used to aggregate movement data (in 2D) and generalize spatial information: 
 [luk-f/AggOfMassiveMvtData](https://github.com/luk-f/AggOfMassiveMvtData), 
      - and I've implemented a specific package with `pybind11`: [luk-f/pyhaversine](https://github.com/luk-f/pyhaversine)
-- And obviously, I should refer to my PhD work 🎓 that just finished last year, 
+- And obviously, I should refer to my PhD work 🎓 ~~that just finished last year~~, 
 an unsupervised method of anomaly detection on multidimensional stream data (a CFOF approximation with *i*SAX tree):
 [luk-f/pyCFOFiSAX](https://github.com/luk-f/pyCFOFiSAX)
 - Also developed the CFOF method to compare it to my thesis work: [luk-f/pyCFOF](https://github.com/luk-f/pyCFOF)
